@@ -1,4 +1,4 @@
-# Custom Movie Player
+# Exchange Rate Calculator
 
 Simple exchange rate calculator that uses Fetch API to get exchange rates
 
