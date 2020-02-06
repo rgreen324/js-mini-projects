@@ -7,6 +7,6 @@ Simple registration form built with HTML/CSS. Includes basic field validation us
 - Create form UI
 - Show error messages under specific fields
 - Client-side validation 
-    - Check min and max length
+    - Check min and max input length
     - Validate email with regex
     - Confirm password match
