@@ -1,4 +1,4 @@
-# Expense Tracker
+# Music Player
 
 Simple music player with custom UI to play music stored in the "music folder" using the HTML5 audio API
 
