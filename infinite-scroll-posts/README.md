@@ -1,4 +1,4 @@
-# Hangman
+# Infinite Scroll Posts
 
 Display dummy blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts and also add a filter box
 
