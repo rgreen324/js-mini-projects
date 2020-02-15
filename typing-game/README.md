@@ -1,4 +1,4 @@
-# Hangman
+# Typing Game
 
 Simple game with countdown timer and score played by typing random words
 
