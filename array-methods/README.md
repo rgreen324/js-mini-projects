@@ -1,4 +1,4 @@
-# Custom Movie Player
+# Array Methods
 
 Simple project to practice high order array methods and DOM manipulation
 
